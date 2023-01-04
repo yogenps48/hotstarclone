@@ -1,0 +1,2 @@
+# hotstarclone
+cloning Hotstar website
