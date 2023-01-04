@@ -1,2 +1,2 @@
 # hotstarclone
-cloning Hotstar website using HTML and CSS, add few javascript codes for adding content in the page.
+cloning Hotstar website using HTML and CSS, and few javascript codes for adding content in the page.
